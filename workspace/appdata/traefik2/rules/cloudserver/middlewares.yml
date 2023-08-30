@@ -1,0 +1,6 @@
+http:
+  middlewares:
+    chain-basic-auth:
+      basicAuth:
+        usersFile: "/shared/.htpasswd" # be sure to mount the volume through docker-compose.yml
+        realm: "Traefik 2 Basic Auth"
