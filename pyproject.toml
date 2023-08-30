@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "traefik"
-version = "0.1.0"
+version = "0.2.0"
 description = "A ready-to-use Docker container to efficiently run Traefik"
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "MIT"

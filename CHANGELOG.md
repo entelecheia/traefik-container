@@ -1,5 +1,17 @@
 <!--next-version-placeholder-->
 
+## v0.2.0 (2023-08-30)
+
+### Feature
+
+* **cloudserver:** Add multiple middlewares to config ([`0664ef8`](https://github.com/entelecheia/traefik-container/commit/0664ef8cdbb9fd41745df831d7c9e04ba0ec662f))
+* **docker-scripts:** Add heimdall directory creation ([`cd9f3ab`](https://github.com/entelecheia/traefik-container/commit/cd9f3ab32f3c0b7027e65abe0d4896d9222b7c0c))
+* **docker-compose:** Update traefik image to 2.10, add Heimdall - Application Dashboard service configuration ([`db16756`](https://github.com/entelecheia/traefik-container/commit/db167561cf86cbceee78a98db6237821e830fb9f))
+
+### Documentation
+
+* **README:** Add credits section ([`c48ea03`](https://github.com/entelecheia/traefik-container/commit/c48ea03a360c6df862b3d25f2fb816f82a1120d6))
+
 ## v0.1.0 (2023-08-30)
 
 ### Feature
