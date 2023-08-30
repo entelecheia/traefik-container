@@ -78,6 +78,11 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 
 This project is released under the [MIT License][license-url].
 
+## Credits
+
+- [Traefik](https://traefik.io/traefik/)
+- [docker-traefik](https://github.com/htpcBeginner/docker-traefik)
+
 <!-- Links: -->
 
 [license-image]: https://img.shields.io/github/license/entelecheia/traefik-container
