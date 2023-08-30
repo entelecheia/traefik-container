@@ -19,3 +19,5 @@ touch "$TRAEFIK_LOG"
 
 mkdir -p "$WORKSPACE_DIR/secrets"
 mkdir -p "$WORKSPACE_DIR/shared"
+
+mkdir -p "$WORKSPACE_DIR/appdata/heimdall"
