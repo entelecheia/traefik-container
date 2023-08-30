@@ -101,7 +101,7 @@ docker-push-app: ## push the docker app image
 docker-run-app: ## run the docker app image
 	@bash .docker/.docker-scripts/docker-compose.sh run app
 
-docker-up-app: ## launch the docker app image
+docker-up-app: prepare-workspace ## launch the docker app image
 	@bash .docker/.docker-scripts/docker-compose.sh up app
 
 docker-up-base: ## launch the docker base image
